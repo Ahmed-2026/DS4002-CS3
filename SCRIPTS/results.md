@@ -1,0 +1,5 @@
+# Results Interpretation 
+Describe how to interpret the outputs of your analysis in this section. Source 3 in the supplemental materials may help you understand what Pearson correlation values represent and how to reason about the strength and direction of the relationships you observe.
+
+# Summary of Findings
+Use this section to summarize the main results from your work. This may include the overall correlation between temperature and daily crime counts, the offense categories that showed the strongest relationships, and your conclusion about whether temperature appears to influence crime patterns in Charlottesville. You should also include possible explanations for your findings. For example, if a strong relationship exists, discuss why certain crimes might increase as temperatures rise. If the correlation is weak or unclear, suggest reasons why temperature may not substantially affect crime levels. Sources 2 and 3 may be helpful in developing your hypotheses and supporting your interpretations.
